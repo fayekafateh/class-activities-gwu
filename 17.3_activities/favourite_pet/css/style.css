@@ -5,9 +5,10 @@ height: 50px;}
 .menu-item{
     display: inline-block;
     width: 100px;
-    height: 40px;
+    height: 30px;
     color: white;
     background-color: #FF8B94;
+    
     text-align: center;
     vertical-align: middle;
     padding-top: 10px;
@@ -18,13 +19,14 @@ height: 50px;}
     width: 29%;
     background-color: beige;
     float: left;
-    height: 800px;
+    height: 700px;
 }
 
 .main-content{
     width: 70%;
+    height: 500px;
     float: left;
-    background-color: aquamarine;
+    background-color: #faf1b0;
 }
 
 .pet-name img{
@@ -38,4 +40,5 @@ height: 50px;}
 .pet-content img{
     float: left;
     margin-right: 20px;
+    width: 400px;
 }
