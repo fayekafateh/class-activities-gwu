@@ -1,0 +1,41 @@
+nav{background-color: #CEE3CC;
+height: 50px;}
+
+
+.menu-item{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #FF8B94;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+
+}
+
+.sidebar{
+    width: 29%;
+    background-color: beige;
+    float: left;
+    height: 800px;
+}
+
+.main-content{
+    width: 70%;
+    float: left;
+    background-color: aquamarine;
+}
+
+.pet-name img{
+    width: 400px;
+}
+
+.pet-content{
+    padding: 20px;
+}
+
+.pet-content img{
+    float: left;
+    margin-right: 20px;
+}
