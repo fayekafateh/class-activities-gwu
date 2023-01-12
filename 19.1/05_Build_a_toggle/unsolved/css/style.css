@@ -1,0 +1,22 @@
+/* Style your dropdown below! */
+ul{
+    margin: 0 auto;
+    list-style-type: none;
+    padding: 0px;
+}
+.container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family:sans-serif;
+    cursor: pointer;
+}
+li{
+    margin: 0 auto;
+    padding: 0px;
+    border: 1pt solid black;
+}
+#toggle{
+    background-color: #FF6767;
+    color: white;
+}
