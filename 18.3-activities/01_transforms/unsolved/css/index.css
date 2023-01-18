@@ -30,7 +30,7 @@ body {
   height: 50px;
   background-color: red;
   margin: 0 auto;
-  transform: scale(2) scalex(3);
+  transform: scale(2) scaleX(2);
   /* Write the scale transform here */
 
 }
