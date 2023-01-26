@@ -1,0 +1,53 @@
+.customNav{
+    background-color: #353535;
+    padding-top: 20px 10px ;
+}
+
+.customNav a{
+    color: white !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.heroBackground{
+    background-image: url(../images/GotToGo/Cover.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 414px;
+    display: flex;
+    justify-content: center;
+}
+
+.display-4{
+    color: #763D14;
+    text-align: left;
+    font-size: 36pt;
+    transform: translateX(600px);
+}
+
+.lead{
+    color: #48742C;
+    font-size: 20pt;
+    text-align: left;
+    transform: translateX(600px);
+}
+
+.lead2{
+    color: #353535;
+    font-size: 20pt;
+    text-align: left;
+    transform: translateX(600px);
+}
+
+.dropdown-menu-text a{
+    color: #353535;
+
+}
+
+.dropdown-menu-text{
+    margin-left: -100px;
+}
