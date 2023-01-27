@@ -1,3 +1,55 @@
+
+body{
+    font-family: 'Comfortaa', cursive;
+    width: 100%;
+}
+
+h1{
+    font-family: 'Cinzel Decorative', cursive;
+    width: 100%;
+    font-weight: 400;
+    font-size: 20pt;
+}
+
+h3{
+    font-family: 'Comfortaa', cursive;
+    font-size: 18pt;
+}
+
+h5{
+    font-family: 'Cinzel Decorative', cursive;
+    width: 100%;
+    font-weight: 700;
+    font-size: 14pt;
+    color: #763D14;
+}
+
+.titleRunners{
+    text-align: center;
+    vertical-align: middle;
+    background-color: #48742C;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 0.5px;
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+}
+
+.heading{
+    color: #763D14;
+}
+
+.heading2{
+    color: #763D14;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
 .customNav{
     background-color: #353535;
     padding-top: 20px 10px ;
@@ -50,4 +102,10 @@
 
 .dropdown-menu-text{
     margin-left: -100px;
+}
+
+
+
+.coverimg{
+    height: 490px;
 }
